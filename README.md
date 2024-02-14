@@ -1,3 +1,4 @@
+[github_sponsors]: https://github.com/sponsors/eduardobaginskicosta
 [patreon]: https://www.patreon.com/eduardobcosta
 [another_profile]: https://www.github.com/eduardobaginskicosta
 
@@ -13,5 +14,6 @@ We are committed to bringing well-built and complete interoperability of all Win
 
 ---
 
-[Donate with Patreon][patreon] •
-[Eduardo Baginski Costa (GitHub Profile)][another_profile]
+[Eduardo Baginski Costa (GitHub Profile)][another_profile]  
+[Donate with GitHub Sponsors][github_sponsors]  
+[Donate with Patreon][patreon]
