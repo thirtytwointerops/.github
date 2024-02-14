@@ -1,7 +1,7 @@
 [patreon]: https://www.patreon.com/eduardobcosta
 [another_profile]: https://www.github.com/eduardobaginskicosta
 
-![DOTNET Banner](assets/dotnet_banner_modern.png)
+![DOTNET Banner](https://github.com/thirtytwointerops/.github/raw/main/profile/assets/dotnet_banner_modern.png)
 
 **Português (Brasil)**
 
