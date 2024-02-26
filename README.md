@@ -1,19 +1,21 @@
-[github_sponsors]: https://github.com/sponsors/eduardobaginskicosta
-[patreon]: https://www.patreon.com/eduardobcosta
-[another_profile]: https://www.github.com/eduardobaginskicosta
+[url_github_sponsors]: https://github.com/sponsors/eduardobaginskicosta
+[url_patreon]: https://www.patreon.com/eduardobcosta
 
-![DOTNET Banner](profile/assets/dotnet_banner_modern.png)
+<!-- IMAGES LINKS -->
 
-**Português (Brasil)**
+[image_nuget]: https://img.shields.io/badge/Install_NuGet_Package-004880?style=for-the-badge&logo=nuget&logoColor=white
+[image_sponsors]: https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white
+[image_patreon]: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
 
-Estamos comprometidos em trazer interoperabilidades bem construídas e completas de todas as APIs do Windows para o ambiente .NET Framework.
+[image_banner]: /profile/assets/dotnet_banner_modern.png
 
-**English (United States)**
+<!-- PRESENTATION -->
 
-We are committed to bringing well-built and complete interoperability of all Windows APIs to the .NET Framework environment.
+![DOTNET Banner][image_banner]
+
+We are committed to bringing complete and well-structured interoperability libraries for all Windows (Win32) APIs to the Open Source and .NET Framework community, as well as providing materials and posts that help the community make their own interoperability.
 
 ---
 
-[Eduardo Baginski Costa (GitHub Profile)][another_profile]  
-[Donate with GitHub Sponsors][github_sponsors]  
-[Donate with Patreon][patreon]
+[![Donate with GitHub Sponsors][image_sponsors]][url_github_sponsors]
+[![Donate with Patreon][image_patreon]][url_patreon]
