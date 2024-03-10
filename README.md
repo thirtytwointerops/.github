@@ -3,8 +3,8 @@
 
 <!-- IMAGES LINKS -->
 
-[image_sponsors]: https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white
-[image_patreon]: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
+[image_sponsors]: /assets/sponsor_github.svg
+[image_patreon]: /assets/sponsor_patreon.svg
 [image_banner]: /assets/banner.png
 
 <!-- PRESENTATION -->
