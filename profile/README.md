@@ -3,9 +3,9 @@
 
 <!-- IMAGES LINKS -->
 
-[image_sponsors]: ../assets/sponsor_github.svg
-[image_patreon]: ../assets/sponsor_patreon.svg
-[image_banner]: ../assets/rounded_banner.png
+[image_sponsors]: https://github.com/thirtytwointerops/.github/raw/main/assets/sponsor_github.svg
+[image_patreon]: https://github.com/thirtytwointerops/.github/raw/main/assets/sponsor_patreon.svg
+[image_banner]: https://github.com/thirtytwointerops/.github/raw/main/assets/rounded_banner.png
 
 <!-- PRESENTATION -->
 
