@@ -5,7 +5,7 @@
 
 [image_sponsors]: /assets/sponsor_github.svg
 [image_patreon]: /assets/sponsor_patreon.svg
-[image_banner]: /assets/rounded_banner.png
+[image_banner]: /assets/banner.png
 
 <!-- PRESENTATION -->
 

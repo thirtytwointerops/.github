@@ -5,7 +5,7 @@
 
 [image_sponsors]: https://github.com/thirtytwointerops/.github/raw/main/assets/sponsor_github.svg
 [image_patreon]: https://github.com/thirtytwointerops/.github/raw/main/assets/sponsor_patreon.svg
-[image_banner]: https://github.com/thirtytwointerops/.github/raw/main/assets/rounded_banner.png
+[image_banner]: https://github.com/thirtytwointerops/.github/raw/main/assets/banner.png
 
 <!-- PRESENTATION -->
 
