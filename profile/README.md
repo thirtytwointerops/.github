@@ -1,9 +1,15 @@
 <h1 align="center">ThirtyTwo Interops</h1>
 
-<img src="https://github.com/thirtytwointerops/.github/raw/main/ThirtyTwo.png" alt="Social Media Image. It features a white header with the prominent text ‘ThirtyTwo Interops.’ Below that, in a light gray color, there’s a smaller description that reads ‘Documentation, style guides, and interoperability libraries of the Windows APIs.’ In the bottom right corner, there’s a minimalist logo accompanied by the auxiliary text ‘Powered by Eduardo Baginski Costa’ (creator of ThirtyTwo Interops), left-aligned." title="ThirtyTwo Interops - Social Media Banner"/>
+<img
+  src="https://github.com/thirtytwointerops/.github/raw/main/ThirtyTwo.png"
+  alt="ThirtyTwo Interops - Social Media Banner"
+  title="ThirtyTwo Interops - Social Media Banner"
+/>
 
 <p>
-  We are committed to bringing complete and well-structured documentation, style guides, and interoperability libraries of all Windows APIs to the Open Source community, covering various frameworks and programming languages.
+  We are dedicated to providing the open-source community with comprehensive and well-structured documentation, style guides, and
+  interoperability libraries for all Windows APIs. Our goal is to cover a variety of frameworks and programming languages, reinforcing
+  our commitment to accessibility and innovation.
 </p>
 
 <p>
