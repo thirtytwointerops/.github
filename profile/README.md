@@ -1,10 +1,4 @@
-<h1 align="center">ThirtyTwo Interops</h1>
-
-<img
-  src="https://github.com/thirtytwointerops/.github/raw/main/ThirtyTwo.png"
-  alt="ThirtyTwo Interops - Social Media Banner"
-  title="ThirtyTwo Interops - Social Media Banner"
-/>
+<h1>ThirtyTwo Interops</h1>
 
 <p>
   We are dedicated to providing the open-source community with comprehensive and well-structured documentation, style guides, and
