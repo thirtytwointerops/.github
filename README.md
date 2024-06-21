@@ -8,6 +8,6 @@
 
 <p>
   <b>
-    Maintained by <a href="https://github.com/eduardobaginskicosta" alt="Eduardo Baginski Costa profile">@eduardobaginskicosta</a>
-  </b>.
+    Maintained by <a href="https://github.com/eduardobaginskicosta" alt="Eduardo Baginski Costa profile">Eduardo Baginski Costa</a> and <a href="https://www.linkedin.com/company/novusinspire/">Novus Inspire</a>.
+  </b>
 </p>
