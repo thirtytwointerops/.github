@@ -1,4 +1,4 @@
-[img_banner]: ../assets/linkedin_rounded.png
+[img_banner]: ../assets/open_source.png
 [social_author]: https://github.com/eduardobaginskicosta
 [social_novus]: https://www.linkedin.com/company/novusinspire/
 [url_microsoft]: https://www.microsoft.com/en-us/startups
