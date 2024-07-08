@@ -10,7 +10,5 @@
 
 You are welcome to our official GitHub repository! Although there is nothing interesting here, I assure you that great surprises await you in the [repositories section][url_repos]. Stay tuned for what we have planned with Microsoft’s support for you! 😊
 
----
-
 **Now part of [Microsoft for Startups Founders Hub][url_microsoft]**  
 **Maintained by [Eduardo Baginski Costa][social_author]**
