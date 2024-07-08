@@ -1,4 +1,4 @@
-[img_banner]: ../assets/rounded.png
+[img_banner]: ./assets/linkedin_rounded.png
 [social_author]: https://github.com/eduardobaginskicosta
 [social_novus]: https://www.linkedin.com/company/novusinspire/
 [url_microsoft]: https://www.microsoft.com/en-us/startups
@@ -11,5 +11,5 @@ In partnership with Microsoft, we provide developers with access to native Windo
 in any language or framework. Additionally, we offer documentation and style guides to
 ensure greater control over your applications, without bureaucracy.
 
-**Maintained by [Eduardo Baginski Costa][social_author] and [Novus Inspire][social_novus]**  
-**Now part of [Microsoft for Startups Founders Hub][url_microsoft]**
+**Now part of [Microsoft for Startups Founders Hub][url_microsoft]**  
+**Maintained by [Eduardo Baginski Costa][social_author]**
