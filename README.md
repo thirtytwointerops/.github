@@ -1,15 +1,22 @@
-[img_banner]: ./assets/gr_small.png
-[url_author]: https://github.com/eduardobaginskicosta
 [url_microsoft]: https://www.microsoft.com/en-us/startups
+[url_author]: https://github.com/eduardobaginskicosta
 [url_repos]: https://github.com/orgs/thirtytwointerops/repositories
+[img_banner]: ./assets/banner.webp
 
-<!--  -->
+<!-- == == == -->
 
-![ThirtyTwo Interops][img_banner]
+[social_instagram]: https://instagram.com/eduardobcosta7/
+[social_linkedin]: https://linkedin.com/in/eduardobaginskicosta/
+[social_twitter]: https://twitter.com/eduardobcosta7/
+
+<!-- == == == -->
+
+<h1 align="center">ThirtyTwo Interops&ensp;•&ensp;Official GitHub</h1>
+
+[![ThirtyTwo Interops][img_banner]][url_microsoft]
 
 You are welcome to our official GitHub repository! Although there is nothing interesting
 here, I assure you that great surprises await you in the [repositories section][url_repos].
 Stay tuned for what we have planned with Microsoft’s support for you!
 
-**Now part of [Microsoft for Startups Founders Hub][url_microsoft]**  
-**Maintained by [Eduardo Baginski Costa][url_author]**
+**Maintained by [@eduardobaginskicosta][url_author]&emsp;|&emsp;[X][social_twitter]&ensp;•&ensp;[LinkedIn][social_linkedin]&ensp;•&ensp;[Instagram][social_instagram]**
