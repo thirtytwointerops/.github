@@ -1,6 +1,5 @@
 [url_microsoft]: https://www.microsoft.com/en-us/startups
 [url_author]: https://github.com/eduardobaginskicosta
-[url_repos]: https://github.com/orgs/thirtytwointerops/repositories
 [img_banner]: ../assets/banner.webp
 
 <!-- == == == -->
@@ -15,8 +14,8 @@
 
 [![ThirtyTwo Interops][img_banner]][url_microsoft]
 
-You are welcome to our official GitHub repository! Although there is nothing interesting
-here, I assure you that great surprises await you in the [repositories section][url_repos].
-Stay tuned for what we have planned with Microsoft’s support for you!
+In partnership with Microsoft, we provide developers with access to native Windows APIs
+in any language or framework. Additionally, we offer documentation and style guides to
+ensure greater control over your applications, without bureaucracy.
 
 **Maintained by [@eduardobaginskicosta][url_author]&emsp;|&emsp;[X][social_twitter]&ensp;•&ensp;[LinkedIn][social_linkedin]&ensp;•&ensp;[Instagram][social_instagram]**

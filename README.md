@@ -15,7 +15,7 @@
 
 [![ThirtyTwo Interops][img_banner]][url_microsoft]
 
-You are welcome to our official GitHub repository! Although there is nothing interesting
+You are welcome to our official GitHub profile! Although there is nothing interesting
 here, I assure you that great surprises await you in the [repositories section][url_repos].
 Stay tuned for what we have planned with Microsoft’s support for you!
 
