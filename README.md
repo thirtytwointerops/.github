@@ -1,7 +1,6 @@
 [url_microsoft]: https://www.microsoft.com/en-us/startups
 [url_author]: https://github.com/eduardobaginskicosta
 [url_repos]: https://github.com/orgs/thirtytwointerops/repositories
-[img_banner]: ./assets/banner.webp
 
 <!-- == == == -->
 
@@ -11,9 +10,7 @@
 
 <!-- == == == -->
 
-<h1 align="center">ThirtyTwo Interops&ensp;•&ensp;Official GitHub</h1>
-
-[![ThirtyTwo Interops][img_banner]][url_microsoft]
+### ThirtyTwo Interops&ensp;•&ensp;Official GitHub
 
 You are welcome to our official GitHub profile! Although there is nothing interesting
 here, I assure you that great surprises await you in the [repositories section][url_repos].
