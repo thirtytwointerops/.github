@@ -10,9 +10,7 @@
 
 <!-- == == == -->
 
-<h1 align="center">ThirtyTwo Interops&ensp;•&ensp;Official GitHub</h1>
-
-[![ThirtyTwo Interops][img_banner]][url_microsoft]
+### ThirtyTwo Interops&ensp;•&ensp;Official GitHub
 
 In partnership with Microsoft, we provide developers with access to native Windows APIs
 in any language or framework. Additionally, we offer documentation and style guides to
