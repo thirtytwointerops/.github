@@ -1,6 +1,5 @@
 [url_microsoft]: https://www.microsoft.com/en-us/startups
 [url_author]: https://github.com/eduardobaginskicosta
-[img_banner]: ../assets/banner.webp
 
 <!-- == == == -->
 
