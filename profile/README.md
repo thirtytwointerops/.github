@@ -9,4 +9,4 @@ In partnership with [Microsoft][url_microsoft], we provide developers with acces
 native **Windows APIs** in any language or framework. Additionally, we offer documentation
 and style guides to ensure greater control over your applications, without bureaucracy.
 
-**Maintained by [Eduardo Baginski Costa][url_author].**
+**🧑‍💻 Maintained by [Eduardo Baginski Costa][url_author].**
