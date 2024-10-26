@@ -10,4 +10,4 @@ You are welcome to our official GitHub profile! Although there is nothing intere
 here, I assure you that great surprises await you in the [repositories section][url_repos].
 Stay tuned for what we have planned with [Microsoft’s][url_microsoft] support for you!
 
-**Maintained by [Eduardo Baginski Costa][url_author].**
+**🧑‍💻 Maintained by [Eduardo Baginski Costa][url_author].**
