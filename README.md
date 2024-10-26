@@ -2,18 +2,12 @@
 [url_author]: https://github.com/eduardobaginskicosta
 [url_repos]: https://github.com/orgs/thirtytwointerops/repositories
 
-<!-- == == == -->
+<!-- ======= -->
 
-[social_instagram]: https://instagram.com/eduardobcosta7/
-[social_linkedin]: https://linkedin.com/in/eduardobaginskicosta/
-[social_twitter]: https://twitter.com/eduardobcosta7/
-
-<!-- == == == -->
-
-### ThirtyTwo Interops&ensp;•&ensp;Official GitHub
+### ThirtyTwo • Official Organization Profile
 
 You are welcome to our official GitHub profile! Although there is nothing interesting
 here, I assure you that great surprises await you in the [repositories section][url_repos].
-Stay tuned for what we have planned with Microsoft’s support for you!
+Stay tuned for what we have planned with [Microsoft’s][url_microsoft] support for you!
 
-**Maintained by [@eduardobaginskicosta][url_author]&emsp;|&emsp;[X][social_twitter]&ensp;•&ensp;[LinkedIn][social_linkedin]&ensp;•&ensp;[Instagram][social_instagram]**
+**Maintained by [Eduardo Baginski Costa][url_author].**
